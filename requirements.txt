@@ -1,6 +1,0 @@
-streamlit
-pandas
-ta
-investpy
-yfinance
-scikit-learn
